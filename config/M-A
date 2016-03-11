@@ -1,0 +1,5 @@
+..
+## Allows people in group wheel to run all commands
+%deployers      ALL=(ALL) ALL
+
+..
